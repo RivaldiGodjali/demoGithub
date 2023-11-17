@@ -1,1 +1,3 @@
 halo ini file2
+
+halo ini untuk push ke remote file2
